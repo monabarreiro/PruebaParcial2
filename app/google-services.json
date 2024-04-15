@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76105927474",
+    "project_id": "pruebaparcial2-71b5e",
+    "storage_bucket": "pruebaparcial2-71b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76105927474:android:56dadee1782712eddce52b",
+        "android_client_info": {
+          "package_name": "com.example.pruebaparcial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyDmL7fmXM6gUiN037cvc00vkrQSqCVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
